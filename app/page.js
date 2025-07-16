@@ -14,7 +14,7 @@ const page = () => {
 
       {/* Featured Property Types */}
       <section
-        className="w-full min-h-[75vh] px-4 py-10 text-center flex flex-col items-center"
+        className="w-full min-h-[50vh] px-4 py-10 text-center flex flex-col items-center"
         style={{ backgroundColor: "#f7f9fc" }}
       >
         <h2 className="text-2xl md:text-3xl font-bold text-gray-800">

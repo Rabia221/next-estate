@@ -18,7 +18,7 @@ const HeroSection = () => {
       </div>
       {/* Search Inputs */}
   <div className="relative z-10 mt-10 bg-white p-5 rounded-lg 
-shadow-lg w-full max-w-4xl mx-auto flex flex-col md:flex-row gap-4">
+shadow-lg w-full max-w-6xl mx-auto flex flex-col md:flex-row gap-4">
 
   {/* Input 1 */}
   <div className="flex flex-col w-full border-r pr-4 border-gray-300 gap-1">
